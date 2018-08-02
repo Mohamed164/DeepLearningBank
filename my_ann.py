@@ -35,8 +35,8 @@ X_test = sc.transform(X_test)
 
 # **part2: make ANN 
 import keras 
-import 
-
+from keras.models import Sequential
+from keras.layers import Dense
 
 
 # Making the Confusion Matrix
