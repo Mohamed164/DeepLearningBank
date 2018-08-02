@@ -38,6 +38,8 @@ import keras
 from keras.models import Sequential
 from keras.layers import Dense
 
+# **part3 -Making 
+
 
 # Making the Confusion Matrix
 from sklearn.metrics import confusion_matrix
